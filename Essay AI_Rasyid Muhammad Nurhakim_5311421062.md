@@ -1,5 +1,7 @@
 Nama	: Rasyid Muhammad Nurhakim
+
 NIM		: 5311421062
+
 Prodi	: Teknik Elektro
 
 Tugas Essay Mata Kuliah Artificial Intelligent and Applications
